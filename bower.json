@@ -1,0 +1,18 @@
+{
+  "name": "BigDataLab9",
+  "homepage": "https://github.com/RHammond2/BigDataLab9",
+  "authors": [
+    "RHammond2 <reh388@nyu.edu>"
+  ],
+  "description": "Lab9 for SP16 DS-GA 1004",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
