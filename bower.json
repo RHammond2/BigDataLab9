@@ -1,13 +1,12 @@
 {
-  "name": "Rob Hammond",
+  "name": "interactive_car_scatterplot",
   "homepage": "https://github.com/RHammond2/BigDataLab9",
   "authors": [
-    "RHammond2 <reh388@nyu.edu>"
+    "<reh388@nyu.edu>; <rjk422@nyu.edu>; <sdr375@nyu.edu>"
   ],
   "description": "Lab9 for SP16 DS-GA 1004",
-  "main": "",
+  "main": "index.html",
   "license": "MIT",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
